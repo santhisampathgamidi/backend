@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+supabase
+postgrest
+gotrue
+sentence-transformers
+torch
+pypdf
+tiktoken
+python-dotenv
+fastapi
