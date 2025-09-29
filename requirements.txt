@@ -11,4 +11,5 @@ torch
 pypdf
 tiktoken
 python-dotenv
+uvicorn
 fastapi
